@@ -1,6 +1,5 @@
 apply plugin: 'java'
 apply plugin: 'application'
-apply pulgin: 'war'
 mainClassName = 'hello.HelloWorld'
   
   task wrapper(type: Wrapper) {
